@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="title">Погода в городе</string>
+    <string name="hint_city">Введите город</string>
+    <string name="btn_get">Узнать погоду</string>
+    <string name="pods">Введите название города</string>
+    <string name="not_found">Город не найден или нет интернета</string>
+    <string name="city">Город: %s</string>
+    <string name="temp">Температура: %s °C</string>
+    <string name="pressure">Давление: %s гПа</string>
+    <string name="wind">Скорость ветра: %s м/с</string>
+</resources>

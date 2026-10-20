@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Weather" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/sky</item>
+        <item name="colorPrimaryDark">@color/sky_dark</item>
+        <item name="colorAccent">@color/sky</item>
+        <item name="android:windowBackground">@color/sky_light</item>
+        <item name="android:windowSplashScreenBackground">@color/sky_light</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+    </style>
+</resources>
